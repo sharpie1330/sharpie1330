@@ -2,7 +2,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?text=Taeyoung🎯&animation=fadeIn&fontColor=46a4fb&fontSize=80&type=transparent&desc=Backend-Developer&descAlignY=90"/>
 </div>
-<br/><br/><br/><br/>
+<br/><br/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/sharpie1330?pet-id=2" width="1000" height="120"/>
+</a>
+<br/><br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /> 스탯
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sharpie1330)](https://solved.ac/sharpie1330)
