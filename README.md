@@ -32,6 +32,7 @@
 - 구매 조언 커뮤니티 서비스, [결재 부탁드립니다](https://github.com/approval-please/approval-please-Spring) (Android) 최우수상 | SpringBoot 개발 🙋‍♀️🏅<sup>2023.01 ~ 2023.02
 - 덕성여자대학교 기숙사생 대상 커뮤니티 웹 서비스, [Duktown](https://github.com/yoonhaorg/Duktown_Backend) | SpringBoot 개발 <sup>2023.09 ~ 2024.01
 - 코드스쿼드 2024 백엔드 마스터즈 코스 수료 <sup>2024.01 ~ 2024.08
-- [Java를 활용한 WAS 개발](https://github.com/sharpie1330/be-was-neon) <sup>2024.03 ~ 2024.04
-- 프로젝트 관리 웹 서비스, [이슈 트래커](https://github.com/sharpie1330/issue-tracker) | Svelte, SpringBoot 개발 <sup>2024.05 ~ 2024.06
-- 숙소 예약 웹 서비스, [Airdnb](https://github.com/sharpie1330/be-airdnb) | SpringBoot 개발 <sup>2024.06 ~ 2024.07
+- [Java를 활용한 WAS 개발](https://github.com/sharpie1330/be-was-neon) 🙋‍♀️<sup>2024.03 ~ 2024.04
+- 프로젝트 관리 웹 서비스, [이슈 트래커](https://github.com/sharpie1330/issue-tracker) | Svelte, SpringBoot 개발 🙋‍♀️<sup>2024.05 ~ 2024.06
+- 숙소 예약 웹 서비스, [Airdnb](https://github.com/sharpie1330/be-airdnb) | SpringBoot 개발 🙋‍♀️<sup>2024.06 ~ 2024.07
+- F, T 성격 유형별 AI 맞춤 답장 생성 서비스, 올려올려 라디오 | SpringBoot 개발 <sup>2024.11 ~ now, 
