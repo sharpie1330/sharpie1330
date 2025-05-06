@@ -8,9 +8,6 @@
 </a>
 <br/><br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /> 스탯
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sharpie1330)](https://solved.ac/sharpie1330)
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> 스킬
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></t>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
@@ -35,4 +32,4 @@
   - [Java를 활용한 WAS 개발](https://github.com/sharpie1330/be-was-neon) 🙋‍♀️<sup>2024.03 ~ 2024.04</sup>
   - 프로젝트 관리 웹 서비스, [이슈 트래커](https://github.com/sharpie1330/issue-tracker) | Svelte, SpringBoot 개발 🙋‍♀️<sup>2024.05 ~ 2024.06</sup>
   - 숙소 예약 웹 서비스, [Airdnb](https://github.com/sharpie1330/be-airdnb) | SpringBoot 개발 🙋‍♀️<sup>2024.06 ~ 2024.07</sup>
-- F, T 성격 유형별 AI 맞춤 답장 생성 서비스, [올려올려 라디오](https://github.com/jellyyelly/bside409) | SpringBoot 개발 <sup>2024.11 ~ now</sup>
+- F, T 성격 유형별 AI 맞춤 답장 생성 서비스, [올려올려 라디오](https://github.com/jellyyelly/bside409) | SpringBoot 개발 <sup>2024.11 ~ 2025.01</sup>
